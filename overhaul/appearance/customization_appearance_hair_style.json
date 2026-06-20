@@ -9,7 +9,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "hair_style" ]
+    "types": ["hair_style"]
   },
   {
     "id": "hair_other",
@@ -21,7 +21,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "hair_style" ]
+    "types": ["hair_style"]
   },
   {
     "id": "hair_sub1",
@@ -33,7 +33,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "sub_hair_style" ]
+    "types": ["sub_hair_style"]
   },
   {
     "id": "hair_sub2",
@@ -45,7 +45,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "sub_hair_style" ]
+    "types": ["sub_hair_style"]
   },
   {
     "id": "hair_sub3",
@@ -57,7 +57,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "sub_hair_style" ]
+    "types": ["sub_hair_style"]
   },
   {
     "id": "hair_sub4",
@@ -69,7 +69,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "sub_hair_style" ]
+    "types": ["sub_hair_style"]
   },
   {
     "id": "hair_sub5",
@@ -81,7 +81,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "sub_hair_style" ]
+    "types": ["sub_hair_style"]
   },
   {
     "id": "hair_sub6",
@@ -93,7 +93,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "sub_hair_style" ]
+    "types": ["sub_hair_style"]
   },
   {
     "id": "hair_sub7",
@@ -105,6 +105,6 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "sub_hair_style" ]
+    "types": ["sub_hair_style"]
   }
 ]

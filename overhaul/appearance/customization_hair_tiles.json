@@ -1,7 +1,7 @@
 [
   {
     "type": "mod_tileset",
-    "compatibility": [ "MX+(Overhaul)", "MSX++DEAD_PEOPLE", "UNDEAD_PEOPLE", "UNDEAD_PEOPLE_BASE" ],
+    "compatibility": ["MX+(Overhaul)", "MSX++DEAD_PEOPLE", "UNDEAD_PEOPLE", "UNDEAD_PEOPLE_BASE"],
     "tint_pairs": [
       { "source_type": "hair_color", "target_type": "hair_style", "override": true },
       { "source_type": "sub_hair_color", "target_type": "sub_hair_style", "override": true }

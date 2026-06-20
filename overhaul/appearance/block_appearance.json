@@ -1,4 +1,4 @@
-[    
+[
   {
     "id": "FACIAL_HAIR_NONE",
     "type": "mutation",
@@ -9,7 +9,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_GOATEE",
@@ -21,7 +21,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_CIRCLE",
@@ -33,7 +33,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_ROYALE",
@@ -45,7 +45,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_ANCHOR",
@@ -57,7 +57,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_SHORTBOXED",
@@ -69,7 +69,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_CHEVRON",
@@ -81,7 +81,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_3DAYSTUBBLE",
@@ -93,7 +93,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_HORSESHOE",
@@ -105,7 +105,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_MUSTACHE",
@@ -117,7 +117,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_MUTTONCHOPS",
@@ -129,7 +129,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_GUNSLINGER",
@@ -141,7 +141,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_CHIN_STRIP",
@@ -153,7 +153,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_CHIN_CURTAIN",
@@ -165,7 +165,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_CHIN_STRAP",
@@ -177,7 +177,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_BEARD",
@@ -189,7 +189,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_HANDLEBAR",
@@ -201,7 +201,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_NECKBEARD",
@@ -213,7 +213,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_PENCIL",
@@ -225,7 +225,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_SHENANDOAH",
@@ -237,7 +237,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_SIDEBURNS",
@@ -249,7 +249,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_SOUL_PATCH",
@@ -261,7 +261,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_TOOTHBRUSH",
@@ -273,7 +273,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_VANDYKE",
@@ -285,7 +285,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_WALRUS",
@@ -297,7 +297,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "FACIAL_HAIR_ZAPPA",
@@ -309,7 +309,7 @@
     "starting_trait": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "facial_hair" ]
+    "types": ["facial_hair"]
   },
   {
     "id": "HAIR_BALD",
@@ -321,6 +321,6 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "hair_style" ]
+    "types": ["hair_style"]
   }
 ]

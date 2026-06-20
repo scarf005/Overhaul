@@ -9,7 +9,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "hair_color" ]
+    "types": ["hair_color"]
   },
   {
     "id": "hair_green",
@@ -21,7 +21,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "hair_color" ]
+    "types": ["hair_color"]
   },
   {
     "id": "hair_blue",
@@ -33,7 +33,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "hair_color" ]
+    "types": ["hair_color"]
   },
   {
     "id": "hair_pink",
@@ -45,7 +45,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "hair_color" ]
+    "types": ["hair_color"]
   },
   {
     "id": "hair_orange",
@@ -57,7 +57,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "hair_color" ]
+    "types": ["hair_color"]
   },
   {
     "id": "sub_hair_black",
@@ -69,7 +69,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "sub_hair_color" ]
+    "types": ["sub_hair_color"]
   },
   {
     "id": "sub_hair_brown",
@@ -81,7 +81,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "sub_hair_color" ]
+    "types": ["sub_hair_color"]
   },
   {
     "id": "sub_hair_blond",
@@ -93,7 +93,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "sub_hair_color" ]
+    "types": ["sub_hair_color"]
   },
   {
     "id": "sub_hair_red",
@@ -105,7 +105,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "sub_hair_color" ]
+    "types": ["sub_hair_color"]
   },
   {
     "id": "sub_hair_gray",
@@ -117,7 +117,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "sub_hair_color" ]
+    "types": ["sub_hair_color"]
   },
   {
     "id": "sub_hair_white",
@@ -129,7 +129,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "sub_hair_color" ]
+    "types": ["sub_hair_color"]
   },
   {
     "id": "sub_hair_violet",
@@ -141,7 +141,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "sub_hair_color" ]
+    "types": ["sub_hair_color"]
   },
   {
     "id": "sub_hair_green",
@@ -153,7 +153,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "sub_hair_color" ]
+    "types": ["sub_hair_color"]
   },
   {
     "id": "sub_hair_blue",
@@ -165,7 +165,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "sub_hair_color" ]
+    "types": ["sub_hair_color"]
   },
   {
     "id": "sub_hair_pink",
@@ -177,7 +177,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "sub_hair_color" ]
+    "types": ["sub_hair_color"]
   },
   {
     "id": "sub_hair_orange",
@@ -189,6 +189,6 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "types": [ "sub_hair_color" ]
+    "types": ["sub_hair_color"]
   }
 ]
