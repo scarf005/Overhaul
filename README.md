@@ -2,7 +2,7 @@
 
 ![](./preview.webp)
 
-Anime-style tileset mod. Non-tileset content is split into the optional `overhaul_additions` submod.
+Anime-style tileset mod. Non-tileset content is split into the optional `Overhaul Tileset/Additions` submod.
 
 Original Overhaul assets and additions by 비창, 고양이, Xotto, and [roguelike gallery](https://gall.dcinside.com/board/lists/?id=rlike)
 

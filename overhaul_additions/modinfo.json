@@ -5,8 +5,8 @@
     "category": "misc_additions",
     "authors": ["비창", "고양이", "Xotto", "로갤"],
     "maintainers": ["Gallatin", "flamesuit"],
-    "name": "Overhaul Additions",
-    "description": "Overhaul 타일셋용 외형, 변이, 아이템, 차량 부품 추가 모드입니다.",
+    "name": "Overhaul Tileset/Additions",
+    "description": "Overhaul Tileset용 외형, 변이, 아이템, 차량 부품 추가 모드입니다.",
     "dependencies": ["bn", "overhaul"]
   }
 ]
