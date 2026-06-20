@@ -1,0 +1,152 @@
+[
+  {
+    "type": "mod_tileset",
+    "compatibility": [ "MX+(Overhaul)", "MSX++DEAD_PEOPLE", "UNDEAD_PEOPLE", "UNDEAD_PEOPLE_BASE" ],
+    "tiles-new": [
+	  {
+		"file": "overhaul48.png",
+		"sprite_width":48,
+		"sprite_height":48,
+		"sprite_offset_x":-8,
+		"sprite_offset_y":-16,
+		"tiles": [
+		{
+          "id": "overlay_mutation_MUZZLE_Dragon",
+          "fg": 0,
+          "rotates": false
+        },
+        {
+		  "id": "overlay_mutation_FOX_EARS",
+          "fg": 1,
+          "rotates": false
+        },
+        {
+		  "id": "overlay_mutation_MOUSE_EARS",
+          "fg": 2,
+          "rotates": false
+        },
+        {
+          "id": "overlay_mutation_LUPINE_EARS",
+          "fg": 3,
+          "rotates": false
+        },
+        {
+          "id": "overlay_mutation_WINGS_BIRD",
+          "fg": 4,
+          "rotates": false
+        },
+        {
+          "id": "overlay_mutation_WINGS_BAT",
+          "fg": 5,
+          "rotates": false
+        },
+        {
+          "id": "overlay_mutation_WINGS_BUTTERFLY",
+          "fg": 6,
+          "rotates": false
+        },
+        {
+          "id": "overlay_mutation_TAIL_NINE",
+          "fg": 7,
+          "rotates": false
+        },
+        {
+          "id": "overlay_mutation_Rabbit_EARS",
+          "fg": 8,
+          "rotates": false
+        },
+		{
+          "id":"headfeather",
+          "fg": 9,
+          "rotates": false
+        },
+		{
+          "id":"overlay_worn_headfeather",
+          "fg": 9,
+          "rotates": false
+        },
+		{
+          "id":"ayam",
+          "fg": 10,
+          "rotates": false
+        },
+		{
+          "id":"overlay_worn_ayam",
+          "fg": 10,
+          "rotates": false
+        },
+		{
+          "id": ["overlay_male_crouch", "overlay_female_crouch"],
+          "bg": 11,
+          "rotates": false
+        },
+		{
+          "id": ["overlay_male_run", "overlay_female_run"],
+          "bg": 12,
+          "rotates": false
+        },
+        {
+          "id": "f_autodoc",
+          "fg": 13,
+          "rotates": false
+        },
+        {
+          "id": "overlay_wielded_rm11b_sniper_rifle",
+          "fg": 14,
+          "rotates": false
+        },
+        {
+          "id": "overlay_wielded_qiang",
+          "fg": 16,
+          "rotates": false
+        },
+        {
+          "id": ["overlay_wielded_spear_survivor", "overlay_wielded_glaive", "overlay_wielded_ji"],
+          "fg": 17,
+          "rotates": false
+        },
+        {
+          "id": ["overlay_wielded_naginata", "overlay_wielded_naginata_fake", "overlay_wielded_naginata_survivor", "overlay_wielded_naginata_inferior"],
+          "fg": 18,
+          "rotates": false
+        },
+        {
+          "id": ["overlay_wielded_makeshift_halberd", "overlay_wielded_halberd", "overlay_wielded_halberd_fake"],
+          "fg": 19,
+          "rotates": false
+        },
+        {
+          "id": ["overlay_wielded_zweifire_off", "overlay_wielded_zweihander", "overlay_wielded_zweihander_fake", "overlay_wielded_longsword", "overlay_wielded_longsword_fake", "overlay_wielded_longsword_inferior", "overlay_wielded_zweihander_inferior"],
+          "fg": 20,
+          "rotates": false
+        },
+        {
+          "id": "overlay_wielded_zweifire_on",
+          "fg": 21,
+          "rotates": false
+        },
+        {
+          "id": "t_atm",
+          "fg": 22,
+          "rotates": false
+        },
+        {
+          "id": "t_console",
+          "fg": 23,
+          "rotates": false
+        },
+        {
+          "id": ["t_console_broken", "t_sliding_concrete_wall_control"],
+          "fg": 24,
+          "rotates": false
+        },
+        {
+          "id": ["f_shower", "vehicle_shower", "vp_vehicle_shower"],
+          "fg": 25,
+          "rotates": false
+        }
+		]
+	  }
+    ]
+  }
+]
