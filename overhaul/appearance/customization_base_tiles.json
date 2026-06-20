@@ -2,6 +2,15 @@
   {
     "type": "mod_tileset",
     "compatibility": ["MX+(Overhaul)", "MSX++DEAD_PEOPLE", "UNDEAD_PEOPLE", "UNDEAD_PEOPLE_BASE"],
+    "tints": [
+      { "id": "SKIN_PITCH_BLACK", "fg": "#1f1f1f", "blend_mode": "multiply" },
+      { "id": "SKIN_RED", "fg": "#ff0000", "blend_mode": "multiply" },
+      { "id": "SKIN_GREEN", "fg": "#269900", "blend_mode": "multiply" },
+      { "id": "SKIN_BLUE", "fg": "#4646ff", "blend_mode": "multiply" },
+      { "id": "SKIN_CYAN", "fg": "#00ffff", "blend_mode": "multiply" },
+      { "id": "SKIN_VIOLET", "fg": "#9c35ff", "blend_mode": "multiply" },
+      { "id": "SKIN_BUBBLEGUM", "fg": "#ff57d2", "blend_mode": "multiply" }
+    ],
     "tiles-new": [
       {
         "file": "overhaul_customization_base.png",
@@ -43,6 +52,20 @@
           { "id": "overlay_male_mutation_SKIN_PINK", "fg": 15, "rotates": false },
           { "id": "overlay_female_mutation_SKIN_YELLOW", "fg": 16, "rotates": false },
           { "id": "overlay_male_mutation_SKIN_YELLOW", "fg": 17, "rotates": false },
+          { "id": "overlay_female_mutation_SKIN_PITCH_BLACK", "fg": 6, "rotates": false },
+          { "id": "overlay_male_mutation_SKIN_PITCH_BLACK", "fg": 7, "rotates": false },
+          { "id": "overlay_female_mutation_SKIN_RED", "fg": 6, "rotates": false },
+          { "id": "overlay_male_mutation_SKIN_RED", "fg": 7, "rotates": false },
+          { "id": "overlay_female_mutation_SKIN_GREEN", "fg": 6, "rotates": false },
+          { "id": "overlay_male_mutation_SKIN_GREEN", "fg": 7, "rotates": false },
+          { "id": "overlay_female_mutation_SKIN_BLUE", "fg": 6, "rotates": false },
+          { "id": "overlay_male_mutation_SKIN_BLUE", "fg": 7, "rotates": false },
+          { "id": "overlay_female_mutation_SKIN_CYAN", "fg": 6, "rotates": false },
+          { "id": "overlay_male_mutation_SKIN_CYAN", "fg": 7, "rotates": false },
+          { "id": "overlay_female_mutation_SKIN_VIOLET", "fg": 6, "rotates": false },
+          { "id": "overlay_male_mutation_SKIN_VIOLET", "fg": 7, "rotates": false },
+          { "id": "overlay_female_mutation_SKIN_BUBBLEGUM", "fg": 6, "rotates": false },
+          { "id": "overlay_male_mutation_SKIN_BUBBLEGUM", "fg": 7, "rotates": false },
 
           { "id": "overlay_mutation_eye_blue", "fg": 20, "rotates": false },
           { "id": "overlay_mutation_eye_gray", "fg": 21, "rotates": false },
@@ -52,6 +75,7 @@
           { "id": "overlay_mutation_eye_hazel", "fg": 25, "rotates": false },
           { "id": "overlay_mutation_eye_violet", "fg": 26, "rotates": false },
           { "id": "overlay_mutation_eye_amber", "fg": 27, "rotates": false },
+          { "id": "overlay_mutation_eye_orange", "fg": 27, "rotates": false },
           { "id": "overlay_mutation_eye_pink", "fg": 28, "rotates": false },
           { "id": "overlay_mutation_eye_white", "fg": 29, "rotates": false },
           { "id": "overlay_mutation_eye_black", "fg": 30, "rotates": false }
