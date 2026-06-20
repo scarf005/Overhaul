@@ -5,10 +5,12 @@
   },
   {
     "type": "mutation_type",
-    "id": "sub_hair_style"
+    "id": "sub_hair_style",
+    "swap_on_conflict": true
   },
   {
     "type": "mutation_type",
-    "id": "sub_hair_color"
+    "id": "sub_hair_color",
+    "swap_on_conflict": true
   }
 ]
