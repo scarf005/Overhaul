@@ -1,0 +1,256 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: overhaul\n"
+"POT-Creation-Date: 2026-10-08 14:32+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: midgardormr <donjonn@yandex.ru>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+#: modinfo.json
+msgid "Overhaul Tileset"
+msgstr "Тайлсет Overhaul"
+
+#. ~ Description for Overhaul Tileset
+#: modinfo.json
+msgid "MX+Tileset(Overhaul)의 순수 타일셋 모드판입니다."
+msgstr "Версия MX+Tileset(Overhaul), содержащая только тайлсет, без других изменений."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: none"
+msgstr "Волосы на лице: нет"
+
+#. ~ Description for Facial hair: none
+#: appearance/block_facial_hair.json
+msgid "You have no hair on your face, it is shaven or simply untouched by the presence of hair."
+msgstr "На вашем лице нет растительности, оно гладко выбрито или просто лишено волос."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: goatee"
+msgstr "Борода: козлиная"
+
+#. ~ Description for Facial hair: goatee
+#: appearance/block_facial_hair.json
+msgid "You have a short beard at the tip of your chin."
+msgstr "У вас короткая борода на кончике подбородка."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: circle beard"
+msgstr "Борода: круговая"
+
+#. ~ Description for Facial hair: circle beard
+#: appearance/block_facial_hair.json
+msgid "You have a moustache and a short beard, that both form a circle around your lips."
+msgstr "У вас усы и короткая борода, образующие круг вокруг губ."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: royale beard"
+msgstr "Борода: ройал"
+
+#. ~ Description for Facial hair: royale beard
+#: appearance/block_facial_hair.json
+msgid "You have a moustache and a short beard forming a patch under your lips."
+msgstr "У вас усы и короткая борода под губами."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: anchor beard"
+msgstr "Борода: якорь"
+
+#. ~ Description for Facial hair: anchor beard
+#: appearance/block_facial_hair.json
+msgid "You have a moustache and a beard starting with a strip going down from the bottom lip, then tracing the jaw lines. It looks a bit like an anchor, thus the name."
+msgstr "У вас усы и борода в форме якоря: узкая полоска волос спускается от нижней губы к подбородку, а затем расходится вдоль линии челюсти. За сходство с якорем эта борода и получила своё название."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: short boxed beard"
+msgstr "Борода: короткая с контуром"
+
+#. ~ Description for Facial hair: short boxed beard
+#: appearance/block_facial_hair.json
+msgid "You have a moustache and a short beard with trimmed sides. Thin patches connect them both, forming a 'box' around the lips, thus the name."
+msgstr "У вас усы и короткая борода с аккуратно подстриженными боками. Тонкие полоски волос соединяют усы с бородой, образуя вокруг рта своеобразную рамку, за что эта борода и получила своё название."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: chevron moustache"
+msgstr "Усы: шеврон"
+
+#. ~ Description for Facial hair: chevron moustache
+#: appearance/block_facial_hair.json
+msgid "You have a moustache that covers your entire top lip."
+msgstr "Ваши усы полностью закрывают верхнюю губу."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: 3-day stubble"
+msgstr "Борода: трёхдневная щетина"
+
+#. ~ Description for Facial hair: 3-day stubble
+#: appearance/block_facial_hair.json
+msgid "You have a short trimmed moustache and beard imitating a 3-day stubble."
+msgstr "У вас коротко подрезанные усы и борода, напоминающие трёхдневную щетину."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: horseshoe"
+msgstr "Усы: подкова"
+
+#. ~ Description for Facial hair: horseshoe
+#: appearance/block_facial_hair.json
+msgid "You have a moustache with patches going down the chin from both ends, thus the name."
+msgstr "Ваши усы спускаются к подбородку с обеих сторон, отсюда и название."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: original moustache"
+msgstr "Усы: классические"
+
+#. ~ Description for Facial hair: original moustache
+#: appearance/block_facial_hair.json
+msgid "You have a moustache with shortened ends, that covers only the skin above your upper lip."
+msgstr "У вас усы с укороченными краями, закрывающие только кожу над верхней губой."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: mutton chops beard"
+msgstr "Бакенбарды: широкие"
+
+#. ~ Description for Facial hair: mutton chops beard
+#: appearance/block_facial_hair.json
+msgid "You have long sideburns that connect to your moustache, with the tip of the chin shaven clean."
+msgstr "У вас длинные бакенбарды, соединяющиеся с усами, края нижней челюсти гладко выбриты."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: gunslinger beard"
+msgstr "Усы с бакенбардами"
+
+#. ~ Description for Facial hair: gunslinger beard
+#: appearance/block_facial_hair.json
+msgid "You have a horseshoe moustache and disconnected sideburns."
+msgstr "У вас борода-подкова и не соединённые с ней бакенбарды."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: chin strip"
+msgstr "Борода: полоска на подбородке"
+
+#. ~ Description for Facial hair: chin strip
+#: appearance/block_facial_hair.json
+msgid "You have a short beard in a form of a vertical patch under your bottom lip."
+msgstr "У вас короткая борода в виде вертикальной полоски под нижней губой."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: chin curtain"
+msgstr "Борода: густая без усов"
+
+#. ~ Description for Facial hair: chin curtain
+#: appearance/block_facial_hair.json
+msgid "You have a full beard without a moustache, restricted to the chin, sometimes called a 'lion's mane'. Much like Abraham Lincoln's beard."
+msgstr "У вас нет усов и длинная борода по краю нижней челюсти, иногда её называют «львиная грива». Похожа на бороду Авраама Линкольна."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: chin strap"
+msgstr "Борода: шкиперская"
+
+#. ~ Description for Facial hair: chin strap
+#: appearance/block_facial_hair.json
+msgid "You have beard along the jaw lines, circling tha chin, and no moustache."
+msgstr "У вас борода, идущая вдоль линии челюсти и огибающая подбородок, но без усов."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: beard"
+msgstr "Борода"
+
+#. ~ Description for Facial hair: beard
+#: appearance/block_facial_hair.json
+msgid "You have a moustache and a long beard, both formed by allowing free growth of hair, with no particular styling."
+msgstr "У вас усы и длинная борода из естественно растущих волос без какой-либо стрижки."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: handlebar moustache"
+msgstr "Усы: велосипедный руль"
+
+#. ~ Description for Facial hair: handlebar moustache
+#: appearance/block_facial_hair.json
+msgid "You have a moustache with long flared out ends."
+msgstr "У вас усы с длинными завёрнутыми кончиками."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: neckbeard"
+msgstr "Борода на шее"
+
+#. ~ Description for Facial hair: neckbeard
+#: appearance/block_facial_hair.json
+msgid "You have a beard formed from hair grown on neck below the chin line. No moustache included."
+msgstr "У вас борода, растущая на шее ниже подбородка, без усов."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: pencil moustache"
+msgstr "Усы: карандаш"
+
+#. ~ Description for Facial hair: pencil moustache
+#: appearance/block_facial_hair.json
+msgid "You have a very thin moustache just above the line of the upper lip."
+msgstr "У вас очень тонкие усы сразу над краем верхней губы."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: shenandoah"
+msgstr "Борода: шенандоа"
+
+#. ~ Description for Facial hair: shenandoah
+#: appearance/block_facial_hair.json
+msgid "Long full beard with no moustache, popular among Amish community, often with two pointed ends."
+msgstr "Длинная густая борода без усов, популярная среди амишей. Часто заканчивается двумя заострёнными прядями."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: sideburns"
+msgstr "Бакенбарды"
+
+#. ~ Description for Facial hair: sideburns
+#: appearance/block_facial_hair.json
+msgid "You have patches of hair in front of your ears, that normaly would connect your hair with the beard, but they are here by themselves."
+msgstr "У вас бакенбарды — полоски волос перед ушами, которые обычно соединяют волосы на голове с бородой. Но в вашем случае они растут отдельно."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: soul patch"
+msgstr "Борода: островок"
+
+#. ~ Description for Facial hair: soul patch
+#: appearance/block_facial_hair.json
+msgid "You have a little bit of hair in the dip under your lower lip, and no other facial hair whatsoever."
+msgstr "У вас немного волос в ямке под нижней губой и никакой другой растительности на лице."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: toothbrush moustache"
+msgstr "Усы: щёточка"
+
+#. ~ Description for Facial hair: toothbrush moustache
+#: appearance/block_facial_hair.json
+msgid "Charlie Chaplin used to have this short patch of hair just under the nose, but then that other guy used it as a characteristic, and it became unwelcomed."
+msgstr "Такой короткий клочок волос сразу под носом был у Чарли Чаплина, но потом их как особенность носил другой мужик, так что эти усы непопулярны."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: Van Dyke"
+msgstr "Борода: Ван Дайк"
+
+#. ~ Description for Facial hair: Van Dyke
+#: appearance/block_facial_hair.json
+msgid "You have handlebar moustache with a chin strip or a small goatee."
+msgstr "У вас закрученные вверх усы и узкая полоска бороды на подбородке или небольшая эспаньолка."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: walrus"
+msgstr "Усы: моржовые"
+
+#. ~ Description for Facial hair: walrus
+#: appearance/block_facial_hair.json
+msgid "You have long thick moustache, overshadowing you lips, that somewhat resembles facial hair of a walrus."
+msgstr "У вас длинные густые усы, почти полностью закрывающие губы и напоминающие усы моржа."
+
+#: appearance/block_facial_hair.json
+msgid "Facial hair: The Zappa"
+msgstr "Усы: Заппа"
+
+#. ~ Description for Facial hair: The Zappa
+#: appearance/block_facial_hair.json
+msgid "You have a wide soul patch and a full moustache that extends a bit downwards at the corners of your lips."
+msgstr "У вас широкий островок и большие усы, спускающиеся немного ниже уголков губ."
