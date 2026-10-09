@@ -919,63 +919,63 @@ msgstr "Другая причёска"
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 1"
-msgstr "Борода и усы: 1"
+msgstr "Дополнительные волосы: 1"
 
 #. ~ Description for Sub Hair: 1
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub hair 1"
-msgstr "Борода и усы 1"
+msgstr "Дополнительные волосы 1"
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 2"
-msgstr "Борода и усы: 2"
+msgstr "Дополнительные волосы: 2"
 
 #. ~ Description for Sub Hair: 2
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub hair 2"
-msgstr "Борода и усы 2"
+msgstr "Дополнительные волосы 2"
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 3"
-msgstr "Борода и усы: 3"
+msgstr "Дополнительные волосы: 3"
 
 #. ~ Description for Sub Hair: 3
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub hair 3"
-msgstr "Борода и усы 3"
+msgstr "Дополнительные волосы 3"
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 4"
-msgstr "Борода и усы: 4"
+msgstr "Дополнительные волосы: 4"
 
 #. ~ Description for Sub Hair: 4
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub hair 4"
-msgstr "Борода и усы 4"
+msgstr "Дополнительные волосы 4"
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 5"
-msgstr "Борода и усы: 5"
+msgstr "Дополнительные волосы: 5"
 
 #. ~ Description for Sub Hair: 5
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub hair 5"
-msgstr "Борода и усы 5"
+msgstr "Дополнительные волосы 5"
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 6"
-msgstr "Борода и усы: 6"
+msgstr "Дополнительные волосы: 6"
 
 #. ~ Description for Sub Hair: 6
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub hair 6"
-msgstr "Борода и усы 6"
+msgstr "Дополнительные волосы 6"
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 7"
-msgstr "Борода и усы: 7"
+msgstr "Дополнительные волосы: 7"
 
 #. ~ Description for Sub Hair: 7
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub hair 7"
-msgstr "Борода и усы 7"
+msgstr "Дополнительные волосы 7"

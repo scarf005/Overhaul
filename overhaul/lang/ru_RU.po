@@ -118,7 +118,7 @@ msgstr "Бакенбарды: широкие"
 #. ~ Description for Facial hair: mutton chops beard
 #: appearance/block_facial_hair.json
 msgid "You have long sideburns that connect to your moustache, with the tip of the chin shaven clean."
-msgstr "У вас длинные бакенбарды, соединяющиеся с усами, края нижней челюсти гладко выбриты."
+msgstr "У вас длинные бакенбарды, соединяющиеся с усами, а кончик подбородка гладко выбрит."
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: gunslinger beard"
@@ -127,7 +127,7 @@ msgstr "Усы с бакенбардами"
 #. ~ Description for Facial hair: gunslinger beard
 #: appearance/block_facial_hair.json
 msgid "You have a horseshoe moustache and disconnected sideburns."
-msgstr "У вас борода-подкова и не соединённые с ней бакенбарды."
+msgstr "У вас усы-подкова и не соединённые с ними бакенбарды."
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: chin strip"
