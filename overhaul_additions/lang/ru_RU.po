@@ -901,81 +901,81 @@ msgstr "Второй цвет ваших волос — оранжевый."
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Hair style: type9"
-msgstr "Причёска: тип 9"
+msgstr "Причёска: косая чёлка"
 
 #. ~ Description for Hair style: type9
 #: appearance/customization_appearance_hair_style.json
 msgid "Type9 hair"
-msgstr "Причёска: тип 9"
+msgstr "Причёска с косой чёлкой."
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Hair style: other"
-msgstr "Причёска: другая"
+msgstr "Причёска: асимметрия"
 
 #. ~ Description for Hair style: other
 #: appearance/customization_appearance_hair_style.json
 msgid "Other hair"
-msgstr "Другая причёска"
+msgstr "Асимметричная прическа."
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 1"
-msgstr "Дополнительные волосы: 1"
+msgstr "Детали волос: вариант 1"
 
 #. ~ Description for Sub Hair: 1
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub hair 1"
-msgstr "Дополнительные волосы 1"
+msgstr "Детали волос: вариант 1"
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 2"
-msgstr "Дополнительные волосы: 2"
+msgstr "Детали волос: вариант 2"
 
 #. ~ Description for Sub Hair: 2
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub hair 2"
-msgstr "Дополнительные волосы 2"
+msgstr "Детали волос: вариант 2"
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 3"
-msgstr "Дополнительные волосы: 3"
+msgstr "Детали волос: вариант 3"
 
 #. ~ Description for Sub Hair: 3
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub hair 3"
-msgstr "Дополнительные волосы 3"
+msgstr "Детали волос: вариант 3"
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 4"
-msgstr "Дополнительные волосы: 4"
+msgstr "Детали волос: вариант 4"
 
 #. ~ Description for Sub Hair: 4
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub hair 4"
-msgstr "Дополнительные волосы 4"
+msgstr "Детали волос: вариант 4"
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 5"
-msgstr "Дополнительные волосы: 5"
+msgstr "Детали волос: вариант 5"
 
 #. ~ Description for Sub Hair: 5
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub hair 5"
-msgstr "Дополнительные волосы 5"
+msgstr "Детали волос: вариант 5"
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 6"
-msgstr "Дополнительные волосы: 6"
+msgstr "Детали волос: вариант 6"
 
 #. ~ Description for Sub Hair: 6
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub hair 6"
-msgstr "Дополнительные волосы 6"
+msgstr "Детали волос: вариант 6"
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 7"
-msgstr "Дополнительные волосы: 7"
+msgstr "Детали волос: вариант 7"
 
 #. ~ Description for Sub Hair: 7
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub hair 7"
-msgstr "Дополнительные волосы 7"
+msgstr "Детали волос: вариант 7"
