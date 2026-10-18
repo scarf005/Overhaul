@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: overhaul_additions\n"
-"POT-Creation-Date: 2026-10-08 14:32+0300\n"
+"POT-Creation-Date: 2026-10-19 01:27+0300\n"
 "PO-Revision-Date: \n"
 "Last-Translator: midgardormr <donjonn@yandex.ru>\n"
 "Language-Team: \n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
-"X-Generator: Poedit 3.9\n"
+"X-Generator: Poedit 3.10\n"
 
 #: armor.json
 msgid "무녀복"
@@ -667,7 +667,7 @@ msgstr "Книжный шкаф"
 
 #: appearance/block_appearance.json
 msgid "Hair: none"
-msgstr "Волосы: нет"
+msgstr "Причёска: лысина"
 
 #. ~ Description for Hair: none
 #: appearance/block_appearance.json
@@ -730,7 +730,7 @@ msgstr "У ваших глаз желтоватый оттенок."
 
 #: appearance/customization_appearance_eye.json
 msgid "Eye color: pink"
-msgstr "Цвет глаз: розовый"
+msgstr "Глаза: розовые"
 
 #. ~ Description for {'str': 'Eye color: pink'}
 #: appearance/customization_appearance_eye.json
@@ -739,7 +739,7 @@ msgstr "У вас необычные розовые глаза."
 
 #: appearance/customization_appearance_eye.json
 msgid "Eye color: white"
-msgstr "Цвет глаз: белый"
+msgstr "Глаза: белые"
 
 #. ~ Description for {'str': 'Eye color: white'}
 #: appearance/customization_appearance_eye.json
@@ -748,7 +748,7 @@ msgstr "Ваши глаза не имеют видимых радужек."
 
 #: appearance/customization_appearance_eye.json
 msgid "Eye color: black"
-msgstr "Цвет глаз: чёрный"
+msgstr "Глаза: чёрные"
 
 #. ~ Description for {'str': 'Eye color: black'}
 #: appearance/customization_appearance_eye.json
@@ -757,7 +757,7 @@ msgstr "Ваши глаза угольно-чёрные, и от этого ст
 
 #: appearance/customization_appearance_hair_color.json
 msgid "Hair color: violet"
-msgstr "Волосы: фиолетовые"
+msgstr "Цвет волос: фиолетовый"
 
 #. ~ Description for Hair color: violet
 #: appearance/customization_appearance_hair_color.json
@@ -766,7 +766,7 @@ msgstr "У вас фиолетовые волосы."
 
 #: appearance/customization_appearance_hair_color.json
 msgid "Hair color: green"
-msgstr "Волосы: зелёные"
+msgstr "Цвет волос: зелёный"
 
 #. ~ Description for Hair color: green
 #: appearance/customization_appearance_hair_color.json
@@ -802,7 +802,7 @@ msgstr "Ваши волосы оранжевого цвета."
 
 #: appearance/customization_appearance_hair_color.json
 msgid "Hair sub color: black"
-msgstr "Доп. цвет волос: чёрный"
+msgstr "Цвет деталей: чёрный"
 
 #. ~ Description for {'str': 'Hair sub color: black'}
 #: appearance/customization_appearance_hair_color.json
@@ -811,7 +811,7 @@ msgstr "Второй цвет ваших волос — чёрный."
 
 #: appearance/customization_appearance_hair_color.json
 msgid "Hair sub color: brown"
-msgstr "Доп. цвет волос: каштановый"
+msgstr "Цвет деталей: каштановый"
 
 #. ~ Description for {'str': 'Hair sub color: brown'}
 #: appearance/customization_appearance_hair_color.json
@@ -820,7 +820,7 @@ msgstr "Второй цвет ваших волос — каштановый."
 
 #: appearance/customization_appearance_hair_color.json
 msgid "Hair sub color: blond"
-msgstr "Доп. цвет волос: блонд"
+msgstr "Цвет деталей: блонд"
 
 #. ~ Description for {'str': 'Hair sub color: blond'}
 #: appearance/customization_appearance_hair_color.json
@@ -829,7 +829,7 @@ msgstr "Второй цвет ваших волос — блонд."
 
 #: appearance/customization_appearance_hair_color.json
 msgid "Hair sub color: red"
-msgstr "Доп. цвет волос: красный"
+msgstr "Цвет деталей: красный"
 
 #. ~ Description for {'str': 'Hair sub color: red'}
 #: appearance/customization_appearance_hair_color.json
@@ -838,7 +838,7 @@ msgstr "Второй цвет ваших волос — красный."
 
 #: appearance/customization_appearance_hair_color.json
 msgid "Hair sub color: gray"
-msgstr "Доп. цвет волос: серый"
+msgstr "Цвет деталей: серый"
 
 #. ~ Description for {'str': 'Hair sub color: gray'}
 #: appearance/customization_appearance_hair_color.json
@@ -847,7 +847,7 @@ msgstr "Второй цвет ваших волос — серый."
 
 #: appearance/customization_appearance_hair_color.json
 msgid "Hair sub color: white"
-msgstr "Доп. цвет волос: белый"
+msgstr "Цвет деталей: белый"
 
 #. ~ Description for {'str': 'Hair sub color: white'}
 #: appearance/customization_appearance_hair_color.json
@@ -856,7 +856,7 @@ msgstr "Второй цвет ваших волос — белый."
 
 #: appearance/customization_appearance_hair_color.json
 msgid "Hair sub color: violet"
-msgstr "Доп. цвет волос: фиолетовый"
+msgstr "Цвет деталей: фиолетовый"
 
 #. ~ Description for {'str': 'Hair sub color: violet'}
 #: appearance/customization_appearance_hair_color.json
@@ -865,7 +865,7 @@ msgstr "Второй цвет ваших волос — фиолетовый."
 
 #: appearance/customization_appearance_hair_color.json
 msgid "Hair sub color: green"
-msgstr "Доп. цвет волос: зелёный"
+msgstr "Цвет деталей: зелёный"
 
 #. ~ Description for {'str': 'Hair sub color: green'}
 #: appearance/customization_appearance_hair_color.json
@@ -874,7 +874,7 @@ msgstr "Второй цвет ваших волос — зелёный."
 
 #: appearance/customization_appearance_hair_color.json
 msgid "Hair sub color: blue"
-msgstr "Доп. цвет волос: синий"
+msgstr "Цвет деталей: синий"
 
 #. ~ Description for {'str': 'Hair sub color: blue'}
 #: appearance/customization_appearance_hair_color.json
@@ -883,7 +883,7 @@ msgstr "Второй цвет ваших волос — синий."
 
 #: appearance/customization_appearance_hair_color.json
 msgid "Hair sub color: pink"
-msgstr "Доп. цвет волос: розовый"
+msgstr "Цвет деталей: розовый"
 
 #. ~ Description for {'str': 'Hair sub color: pink'}
 #: appearance/customization_appearance_hair_color.json
@@ -892,7 +892,7 @@ msgstr "Второй цвет ваших волос — розовый."
 
 #: appearance/customization_appearance_hair_color.json
 msgid "Hair sub color: orange"
-msgstr "Доп. цвет волос: оранжевый"
+msgstr "Цвет деталей: оранжевый"
 
 #. ~ Description for {'str': 'Hair sub color: orange'}
 #: appearance/customization_appearance_hair_color.json
@@ -900,82 +900,82 @@ msgid "You have orange sub hair."
 msgstr "Второй цвет ваших волос — оранжевый."
 
 #: appearance/customization_appearance_hair_style.json
-msgid "Hair style: type9"
-msgstr "Причёска: косая чёлка"
+msgid "Hair style: side-swept"
+msgstr "Причёска: зачёс набок"
 
-#. ~ Description for Hair style: type9
+#. ~ Description for Hair style: side-swept
 #: appearance/customization_appearance_hair_style.json
-msgid "Type9 hair"
-msgstr "Причёска с косой чёлкой."
+msgid "Your hair is swept to one side, with strands framing your face."
+msgstr "Ваши волосы зачёсаны набок, отдельные пряди обрамляют лицо."
 
 #: appearance/customization_appearance_hair_style.json
-msgid "Hair style: other"
-msgstr "Причёска: асимметрия"
+msgid "Hair style: alternative"
+msgstr "Причёска: альтернативная"
 
-#. ~ Description for Hair style: other
+#. ~ Description for Hair style: alternative
 #: appearance/customization_appearance_hair_style.json
-msgid "Other hair"
-msgstr "Асимметричная прическа."
+msgid "This style has long hair swept to one side in the female appearance and closely cropped hair in the male appearance."
+msgstr "В женском варианте — длинные волосы, зачёсанные набок; в мужском — короткая стрижка."
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 1"
-msgstr "Детали волос: вариант 1"
+msgstr "Деталь внешности: 1"
 
 #. ~ Description for Sub Hair: 1
 #: appearance/customization_appearance_hair_style.json
-msgid "Sub hair 1"
-msgstr "Детали волос: вариант 1"
+msgid "Adds a long side lock to the female appearance or a broad strip of facial hair along the chin to the male appearance."
+msgstr "Добавляет длинную боковую прядь в женском варианте или широкую полоску растительности вдоль подбородка в мужском."
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 2"
-msgstr "Детали волос: вариант 2"
+msgstr "Деталь внешности: 2"
 
 #. ~ Description for Sub Hair: 2
 #: appearance/customization_appearance_hair_style.json
-msgid "Sub hair 2"
-msgstr "Детали волос: вариант 2"
+msgid "Adds a small side lock to the female appearance or a short patch of facial hair on the chin to the male appearance."
+msgstr "Добавляет небольшую боковую прядь в женском варианте или короткий островок растительности на подбородке в мужском."
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 3"
-msgstr "Детали волос: вариант 3"
+msgstr "Деталь внешности: 3"
 
 #. ~ Description for Sub Hair: 3
 #: appearance/customization_appearance_hair_style.json
-msgid "Sub hair 3"
-msgstr "Детали волос: вариант 3"
+msgid "Adds two long side locks to the female appearance or a fuller patch of facial hair around the chin to the male appearance."
+msgstr "Добавляет две длинные боковые пряди в женском варианте или более густую растительность вокруг подбородка в мужском."
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 4"
-msgstr "Детали волос: вариант 4"
+msgstr "Деталь внешности: 4"
 
 #. ~ Description for Sub Hair: 4
 #: appearance/customization_appearance_hair_style.json
-msgid "Sub hair 4"
-msgstr "Детали волос: вариант 4"
+msgid "Adds a long side lock on the opposite side from detail 1 to the female appearance or a short horizontal strip of facial hair to the male appearance."
+msgstr "Добавляет длинную боковую прядь с противоположной стороны относительно детали № 1 в женском варианте или короткую горизонтальную полоску растительности на лице в мужском."
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 5"
-msgstr "Детали волос: вариант 5"
+msgstr "Деталь внешности: 5"
 
 #. ~ Description for Sub Hair: 5
 #: appearance/customization_appearance_hair_style.json
-msgid "Sub hair 5"
-msgstr "Детали волос: вариант 5"
+msgid "Adds a small tuft of hair at the top of the head to the female appearance or an extended strip of facial hair along the chin to the male appearance."
+msgstr "Добавляет небольшой вихор на макушке в женском варианте или удлинённую полоску растительности вдоль подбородка в мужском."
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 6"
-msgstr "Детали волос: вариант 6"
+msgstr "Деталь внешности: 6"
 
 #. ~ Description for Sub Hair: 6
 #: appearance/customization_appearance_hair_style.json
-msgid "Sub hair 6"
-msgstr "Детали волос: вариант 6"
+msgid "Adds a narrow side lock to the female appearance or a small horizontal strip of facial hair to the male appearance."
+msgstr "Добавляет узкую боковую прядь в женском варианте или небольшую горизонтальную полоску растительности на лице в мужском."
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 7"
-msgstr "Детали волос: вариант 7"
+msgstr "Деталь внешности: 7"
 
 #. ~ Description for Sub Hair: 7
 #: appearance/customization_appearance_hair_style.json
-msgid "Sub hair 7"
-msgstr "Детали волос: вариант 7"
+msgid "Adds a short lock of hair swept to one side to the female appearance or a narrow vertical strip of facial hair to the male appearance."
+msgstr "Добавляет короткую прядь, направленную набок, в женском варианте или узкую вертикальную полоску растительности на лице в мужском."
