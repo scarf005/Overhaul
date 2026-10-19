@@ -10,20 +10,20 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
+"X-Generator: Poedit 3.10\n"
 
 #: modinfo.json
 msgid "Overhaul Tileset"
-msgstr "Тайлсет Overhaul"
+msgstr "Тайлсет Overhaul "
 
 #. ~ Description for Overhaul Tileset
 #: modinfo.json
 msgid "MX+Tileset(Overhaul)의 순수 타일셋 모드판입니다."
-msgstr "Версия MX+Tileset(Overhaul), содержащая только тайлсет, без других изменений."
+msgstr "Версия MX+Tileset (Overhaul), содержащая только тайлсет, без других изменений."
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: none"
-msgstr "Волосы на лице: нет"
+msgstr "Лицо: без волос"
 
 #. ~ Description for Facial hair: none
 #: appearance/block_facial_hair.json
@@ -32,7 +32,7 @@ msgstr "На вашем лице нет растительности, оно г�
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: goatee"
-msgstr "Борода: козлиная"
+msgstr "Лицо: эспаньолка"
 
 #. ~ Description for Facial hair: goatee
 #: appearance/block_facial_hair.json
@@ -41,7 +41,7 @@ msgstr "У вас короткая борода на кончике подбор
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: circle beard"
-msgstr "Борода: круговая"
+msgstr "Лицо: круговая борода"
 
 #. ~ Description for Facial hair: circle beard
 #: appearance/block_facial_hair.json
@@ -50,7 +50,7 @@ msgstr "У вас усы и короткая борода, образующие 
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: royale beard"
-msgstr "Борода: ройал"
+msgstr "Лицо: борода ройал"
 
 #. ~ Description for Facial hair: royale beard
 #: appearance/block_facial_hair.json
@@ -59,7 +59,7 @@ msgstr "У вас усы и короткая борода под губами."
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: anchor beard"
-msgstr "Борода: якорь"
+msgstr "Лицо: борода-якорь"
 
 #. ~ Description for Facial hair: anchor beard
 #: appearance/block_facial_hair.json
@@ -68,7 +68,7 @@ msgstr "У вас усы и борода в форме якоря: узкая п
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: short boxed beard"
-msgstr "Борода: короткая с контуром"
+msgstr "Лицо: контурная борода"
 
 #. ~ Description for Facial hair: short boxed beard
 #: appearance/block_facial_hair.json
@@ -77,7 +77,7 @@ msgstr "У вас усы и короткая борода с аккуратно 
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: chevron moustache"
-msgstr "Усы: шеврон"
+msgstr "Лицо: усы-шеврон"
 
 #. ~ Description for Facial hair: chevron moustache
 #: appearance/block_facial_hair.json
@@ -86,7 +86,7 @@ msgstr "Ваши усы полностью закрывают верхнюю г�
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: 3-day stubble"
-msgstr "Борода: трёхдневная щетина"
+msgstr "Лицо: трёхдневная щетина"
 
 #. ~ Description for Facial hair: 3-day stubble
 #: appearance/block_facial_hair.json
@@ -95,7 +95,7 @@ msgstr "У вас коротко подрезанные усы и борода, 
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: horseshoe"
-msgstr "Усы: подкова"
+msgstr "Лицо: усы-подкова"
 
 #. ~ Description for Facial hair: horseshoe
 #: appearance/block_facial_hair.json
@@ -104,7 +104,7 @@ msgstr "Ваши усы спускаются к подбородку с обеи
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: original moustache"
-msgstr "Усы: классические"
+msgstr "Лицо: классические усы"
 
 #. ~ Description for Facial hair: original moustache
 #: appearance/block_facial_hair.json
@@ -113,7 +113,7 @@ msgstr "У вас усы с укороченными краями, закрыв�
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: mutton chops beard"
-msgstr "Бакенбарды: широкие"
+msgstr "Лицо: широкие бакенбарды"
 
 #. ~ Description for Facial hair: mutton chops beard
 #: appearance/block_facial_hair.json
@@ -122,7 +122,7 @@ msgstr "У вас длинные бакенбарды, соединяющиес�
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: gunslinger beard"
-msgstr "Усы с бакенбардами"
+msgstr "Лицо: усы с бакенбардами"
 
 #. ~ Description for Facial hair: gunslinger beard
 #: appearance/block_facial_hair.json
@@ -131,7 +131,7 @@ msgstr "У вас усы-подкова и не соединённые с ним
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: chin strip"
-msgstr "Борода: полоска на подбородке"
+msgstr "Лицо: борода-полоска"
 
 #. ~ Description for Facial hair: chin strip
 #: appearance/block_facial_hair.json
@@ -140,16 +140,16 @@ msgstr "У вас короткая борода в виде вертикальн
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: chin curtain"
-msgstr "Борода: густая без усов"
+msgstr "Лицо: борода-занавес"
 
 #. ~ Description for Facial hair: chin curtain
 #: appearance/block_facial_hair.json
 msgid "You have a full beard without a moustache, restricted to the chin, sometimes called a 'lion's mane'. Much like Abraham Lincoln's beard."
-msgstr "У вас нет усов и длинная борода по краю нижней челюсти, иногда её называют «львиная грива». Похожа на бороду Авраама Линкольна."
+msgstr "У вас длинная борода по краю нижней челюсти без усов, иногда называемая «львиной гривой». Похожа на бороду Авраама Линкольна."
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: chin strap"
-msgstr "Борода: шкиперская"
+msgstr "Лицо: шкиперская борода"
 
 #. ~ Description for Facial hair: chin strap
 #: appearance/block_facial_hair.json
@@ -158,7 +158,7 @@ msgstr "У вас борода, идущая вдоль линии челюст�
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: beard"
-msgstr "Борода"
+msgstr "Лицо: полная борода"
 
 #. ~ Description for Facial hair: beard
 #: appearance/block_facial_hair.json
@@ -167,7 +167,7 @@ msgstr "У вас усы и длинная борода из естествен�
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: handlebar moustache"
-msgstr "Усы: велосипедный руль"
+msgstr "Лицо: закрученные усы"
 
 #. ~ Description for Facial hair: handlebar moustache
 #: appearance/block_facial_hair.json
@@ -176,7 +176,7 @@ msgstr "У вас усы с длинными завёрнутыми кончик
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: neckbeard"
-msgstr "Борода на шее"
+msgstr "Лицо: борода на шее"
 
 #. ~ Description for Facial hair: neckbeard
 #: appearance/block_facial_hair.json
@@ -185,7 +185,7 @@ msgstr "У вас борода, растущая на шее ниже подбо
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: pencil moustache"
-msgstr "Усы: карандаш"
+msgstr "Лицо: усы-карандаш"
 
 #. ~ Description for Facial hair: pencil moustache
 #: appearance/block_facial_hair.json
@@ -194,7 +194,7 @@ msgstr "У вас очень тонкие усы сразу над краем в
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: shenandoah"
-msgstr "Борода: шенандоа"
+msgstr "Лицо: борода шенандоа"
 
 #. ~ Description for Facial hair: shenandoah
 #: appearance/block_facial_hair.json
@@ -203,7 +203,7 @@ msgstr "Длинная густая борода без усов, популяр
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: sideburns"
-msgstr "Бакенбарды"
+msgstr "Лицо: бакенбарды"
 
 #. ~ Description for Facial hair: sideburns
 #: appearance/block_facial_hair.json
@@ -212,7 +212,7 @@ msgstr "У вас бакенбарды — полоски волос перед 
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: soul patch"
-msgstr "Борода: островок"
+msgstr "Лицо: островок под губой"
 
 #. ~ Description for Facial hair: soul patch
 #: appearance/block_facial_hair.json
@@ -221,7 +221,7 @@ msgstr "У вас немного волос в ямке под нижней гу
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: toothbrush moustache"
-msgstr "Усы: щёточка"
+msgstr "Лицо: усы-щёточка"
 
 #. ~ Description for Facial hair: toothbrush moustache
 #: appearance/block_facial_hair.json
@@ -230,7 +230,7 @@ msgstr "Такой короткий клочок волос сразу под н
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: Van Dyke"
-msgstr "Борода: Ван Дайк"
+msgstr "Лицо: борода Ван Дайка"
 
 #. ~ Description for Facial hair: Van Dyke
 #: appearance/block_facial_hair.json
@@ -239,7 +239,7 @@ msgstr "У вас закрученные вверх усы и узкая пол�
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: walrus"
-msgstr "Усы: моржовые"
+msgstr "Лицо: моржовые усы"
 
 #. ~ Description for Facial hair: walrus
 #: appearance/block_facial_hair.json
@@ -248,7 +248,7 @@ msgstr "У вас длинные густые усы, почти полност�
 
 #: appearance/block_facial_hair.json
 msgid "Facial hair: The Zappa"
-msgstr "Усы: Заппа"
+msgstr "Лицо: усы Заппы"
 
 #. ~ Description for Facial hair: The Zappa
 #: appearance/block_facial_hair.json
