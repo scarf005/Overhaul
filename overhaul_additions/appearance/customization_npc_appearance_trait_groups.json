@@ -69,7 +69,7 @@
   },
   {
     "type": "trait_group",
-    "id": "Hair__Color_Dark",
+    "id": "Hair_Color_Dark",
     "subtype": "distribution",
     "traits": [
       { "trait": "hair_black", "prob": 35 },

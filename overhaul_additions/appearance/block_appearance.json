@@ -4,6 +4,7 @@
     "type": "mutation",
     "name": "Hair: none",
     "description": "You are bald.",
+    "apperance_description": "bald",
     "points": 0,
     "starting_trait": false,
     "valid": false,
