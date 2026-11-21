@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: overhaul_additions\n"
-"POT-Creation-Date: 2026-11-21 03:05+0300\n"
+"POT-Creation-Date: 2026-11-21 11:35+0900\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -137,12 +137,12 @@ msgid_plural "하이테크 보안경 (꺼짐)s"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Use action transform.msg for 하이테크 보안경 (꺼짐).
+#. ~ Use action msg for 하이테크 보안경 (꺼짐).
 #: ./armor.json
 msgid "하이테크 보안경을 가동시켰다."
 msgstr ""
 
-#. ~ Use action transform.need_charges_msg for 하이테크 보안경 (꺼짐).
+#. ~ Use action need_charges_msg for 하이테크 보안경 (꺼짐).
 #: ./armor.json
 msgid "하이테크 보안경에 배터리가 없다."
 msgstr ""
@@ -160,12 +160,12 @@ msgid_plural "하이테크 보안경 (켜짐)s"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Use action transform.menu_text for 하이테크 보안경 (켜짐).
+#. ~ Use action menu_text for 하이테크 보안경 (켜짐).
 #: ./armor.json
 msgid "끄기"
 msgstr ""
 
-#. ~ Use action transform.msg for 하이테크 보안경 (켜짐).
+#. ~ Use action msg for 하이테크 보안경 (켜짐).
 #: ./armor.json
 msgid "하이테크 보안경을 껐다."
 msgstr ""
@@ -280,6 +280,11 @@ msgid_plural "드래곤 혈청s"
 msgstr[0] ""
 msgstr[1] ""
 
+#. ~ Mutation class name
+#: ./mutation_category.json
+msgid "Fox"
+msgstr ""
+
 #. ~ Mutation class: Fox mutagen_message
 #: ./mutation_category.json
 msgid "산과 들을 뛰어다니고 싶다는 생각이 든다."
@@ -308,6 +313,11 @@ msgctxt "memorial_female"
 msgid "어떤 것이든 문제가 없다."
 msgstr ""
 
+#. ~ Mutation class name
+#: ./mutation_category.json
+msgid "Horse"
+msgstr ""
+
 #. ~ Mutation class: Horse mutagen_message
 #: ./mutation_category.json
 msgid "다리가 강해진다는 느낌이 든다."
@@ -318,6 +328,11 @@ msgstr ""
 msgid "심장이 빠르게 뛰며 어디든지 질주를 하고 싶다는 충동에 휩싸인다."
 msgstr ""
 
+#. ~ Mutation class name
+#: ./mutation_category.json
+msgid "Golem"
+msgstr ""
+
 #. ~ Mutation class: Golem mutagen_message
 #: ./mutation_category.json
 msgid "왠지 피부가 딱딱해지는 느낌이 든다."
@@ -326,6 +341,11 @@ msgstr ""
 #. ~ Mutation class: Golem iv_message
 #: ./mutation_category.json
 msgid "흐르는 피 속에 둘맹이가 있는 느낌이 든다."
+msgstr ""
+
+#. ~ Mutation class name
+#: ./mutation_category.json
+msgid "Dragon"
 msgstr ""
 
 #. ~ Mutation class: Dragon mutagen_message
@@ -558,25 +578,25 @@ msgstr ""
 msgid "Reptilian Healing"
 msgstr ""
 
-#. ~ Scenario name for 'inherited scenario'
+#. ~ Name for scenario 'Experiment' for a male character
 #: ./scenarios.json
 msgctxt "scenario_male"
 msgid "Experiment"
 msgstr ""
 
-#. ~ Scenario name for 'inherited scenario'
+#. ~ Name for scenario 'Experiment' for a female character
 #: ./scenarios.json
 msgctxt "scenario_female"
 msgid "Experiment"
 msgstr ""
 
-#. ~ Scenario name for 'inherited scenario'
+#. ~ Name for scenario 'Challenge - Lab Patient' for a male character
 #: ./scenarios.json
 msgctxt "scenario_male"
 msgid "Challenge - Lab Patient"
 msgstr ""
 
-#. ~ Scenario name for 'inherited scenario'
+#. ~ Name for scenario 'Challenge - Lab Patient' for a female character
 #: ./scenarios.json
 msgctxt "scenario_female"
 msgid "Challenge - Lab Patient"
