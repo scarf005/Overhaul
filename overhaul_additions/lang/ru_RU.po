@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: overhaul_additions\n"
-"POT-Creation-Date: 2026-10-19 01:27+0300\n"
+"POT-Creation-Date: 2026-11-21 03:05+0300\n"
 "PO-Revision-Date: \n"
-"Last-Translator: midgardormr <donjonn@yandex.ru>\n"
+"Last-Translator: midgardormr <midgardormr@gmail.com>\n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,9 @@ msgstr[2] "одеяний мико"
 #. ~ Description for 무녀복
 #: armor.json
 msgid "일본 신토신앙의 예복, 실용성보다는 외견에 치중되어 있습니다."
-msgstr "Церемониальное облачение служительницы японского синтоистского храма. При его создании больше внимания уделялось внешнему виду, чем практичности."
+msgstr ""
+"Церемониальное облачение служительницы японского синтоистского храма. При "
+"его создании больше внимания уделялось внешнему виду, чем практичности."
 
 #: armor.json
 msgid "생존용 무녀복"
@@ -35,7 +37,11 @@ msgstr[2] "одеяний мико для выживания"
 #. ~ Description for 생존용 무녀복
 #: armor.json
 msgid "일본 신토신앙의 예복, 외견을 최대한 보존한채 케블라와 노멕스를 덧대고 주머니를 만들어 실용성을 늘렸습니다."
-msgstr "Церемониальное облачение служительницы синтоистского храма, приспособленное для выживания. Его внешний вид практически не изменился, зато благодаря вставкам из кевлара и номекса и дополнительным карманам оно стало гораздо практичнее."
+msgstr ""
+"Церемониальное облачение служительницы синтоистского храма, приспособленное "
+"для выживания. Его внешний вид практически не изменился, зато благодаря "
+"вставкам из кевлара и номекса и дополнительным карманам оно стало гораздо "
+"практичнее."
 
 #: armor.json
 msgid "개선된 보안경"
@@ -47,7 +53,9 @@ msgstr[2] "улучшенных защитных очков"
 #. ~ Description for 개선된 보안경
 #: armor.json
 msgid "기존의 보안경을 조금 더 크게하면서 방어력도 개선했습니다."
-msgstr "Увеличенная версия обычных защитных очков с улучшенными защитными свойствами."
+msgstr ""
+"Увеличенная версия обычных защитных очков с улучшенными защитными "
+"свойствами."
 
 #: armor.json
 msgid "리본"
@@ -71,7 +79,8 @@ msgstr[2] "цветочных шпилек"
 #. ~ Description for 꽃 비녀
 #: armor.json
 msgid "짧은 작대기에 조화와 끈을 단 장식용 비녀."
-msgstr "Декоративная шпилька для волос, украшенная искусственным цветком и лентами."
+msgstr ""
+"Декоративная шпилька для волос, украшенная искусственным цветком и лентами."
 
 #: armor.json
 msgid "자금관"
@@ -83,7 +92,9 @@ msgstr[2] "цзыцзиньгуаней"
 #. ~ Description for 자금관
 #: armor.json
 msgid "중국의 전통 모자. 과거 어떠한 중국의 무장이 머리에 쓰고다녀 매우 유명한 모자다."
-msgstr "Традиционный китайский головной убор, получивший широкую известность благодаря одному китайскому военачальнику, который когда-то его носил."
+msgstr ""
+"Традиционный китайский головной убор, получивший широкую известность "
+"благодаря одному китайскому военачальнику, который когда-то его носил."
 
 #: armor.json
 msgid "아얌"
@@ -95,7 +106,9 @@ msgstr[2] "аямов"
 #. ~ Description for 아얌
 #: armor.json
 msgid "조선의 전통 모자. 여성들이 쓰던 방한모. 방어성능은 기대할 수 없다."
-msgstr "Традиционный корейский женский головной убор для защиты от холода. На какую-либо защиту в бою рассчитывать не приходится."
+msgstr ""
+"Традиционный корейский женский головной убор для защиты от холода. На какую-"
+"либо защиту в бою рассчитывать не приходится."
 
 #: armor.json
 msgid "붉은 관"
@@ -131,7 +144,8 @@ msgstr[2] "ханбоков"
 #. ~ Description for 한복
 #: armor.json
 msgid "동북아시아 한국이라 불리는 나라의 전통의상"
-msgstr "Традиционная одежда Кореи — страны, расположенной в Северо-Восточной Азии"
+msgstr ""
+"Традиционная одежда Кореи — страны, расположенной в Северо-Восточной Азии"
 
 #: armor.json
 msgid "생존용 한복"
@@ -142,8 +156,13 @@ msgstr[2] "ханбоков для выживания"
 
 #. ~ Description for 생존용 한복
 #: armor.json
-msgid "동북아시아 한국이라 불리는 나라의 전통의상, 외견을 최대한 보존한채 필요없는 부분을 잘라내고, 케블라를 덧댄 뒤에 주머니를 만들어 실용성을 늘렸습니다."
-msgstr "Традиционная корейская одежда, приспособленная для выживания. Её внешний вид постарались максимально сохранить, убрав лишние детали, усилив кевларом и добавив карманы для большей практичности."
+msgid ""
+"동북아시아 한국이라 불리는 나라의 전통의상, 외견을 최대한 보존한채 필요없는 부분을 잘라내고, 케블라를 덧댄 뒤에 주머니를 만들어 "
+"실용성을 늘렸습니다."
+msgstr ""
+"Традиционная корейская одежда, приспособленная для выживания. Её внешний вид"
+" постарались максимально сохранить, убрав лишние детали, усилив кевларом и "
+"добавив карманы для большей практичности."
 
 #: armor.json
 msgid "하이테크 보안경 (꺼짐)"
@@ -152,20 +171,25 @@ msgstr[0] "высокотехнологичные защитные очки (в�
 msgstr[1] "высокотехнологичных защитных очков (выкл.)"
 msgstr[2] "высокотехнологичных защитных очков (выкл.)"
 
-#. ~ Use action msg for 하이테크 보안경 (꺼짐).
+#. ~ Use action transform.msg for 하이테크 보안경 (꺼짐).
 #: armor.json
 msgid "하이테크 보안경을 가동시켰다."
 msgstr "Вы включили высокотехнологичные защитные очки."
 
-#. ~ Use action need_charges_msg for 하이테크 보안경 (꺼짐).
+#. ~ Use action transform.need_charges_msg for 하이테크 보안경 (꺼짐).
 #: armor.json
 msgid "하이테크 보안경에 배터리가 없다."
 msgstr "В высокотехнологичных защитных очках нет батареи."
 
 #. ~ Description for 하이테크 보안경 (꺼짐)
 #: armor.json
-msgid "시력보정 기능과 멀리볼수 있는 기능, 그리고 밝은 빛에 눈을 보호하는 기능이 내장되어 있는 최첨단 보안경. 사용하면 꽤 밝은 빛이 켜집니다."
-msgstr "Высокотехнологичные защитные очки со встроенными функциями коррекции зрения, увеличения удалённых объектов и защиты глаз от яркого света. При активации включается довольно яркая подсветка."
+msgid ""
+"시력보정 기능과 멀리볼수 있는 기능, 그리고 밝은 빛에 눈을 보호하는 기능이 내장되어 있는 최첨단 보안경. 사용하면 꽤 밝은 빛이 "
+"켜집니다."
+msgstr ""
+"Высокотехнологичные защитные очки со встроенными функциями коррекции зрения,"
+" увеличения удалённых объектов и защиты глаз от яркого света. При активации "
+"включается довольно яркая подсветка."
 
 #: armor.json
 msgid "하이테크 보안경 (켜짐)"
@@ -174,20 +198,25 @@ msgstr[0] "высокотехнологичные защитные очки (в�
 msgstr[1] "высокотехнологичных защитных очков (вкл.)"
 msgstr[2] "высокотехнологичных защитных очков (вкл.)"
 
-#. ~ Use action menu_text for 하이테크 보안경 (켜짐).
+#. ~ Use action transform.menu_text for 하이테크 보안경 (켜짐).
 #: armor.json
 msgid "끄기"
 msgstr "Выключить"
 
-#. ~ Use action msg for 하이테크 보안경 (켜짐).
+#. ~ Use action transform.msg for 하이테크 보안경 (켜짐).
 #: armor.json
 msgid "하이테크 보안경을 껐다."
 msgstr "Вы выключили высокотехнологичные защитные очки."
 
 #. ~ Description for 하이테크 보안경 (켜짐)
 #: armor.json
-msgid "시력보정 기능과 멀리볼수 있는 기능, 그리고 매우 밝은 빛에 눈을 보호하는 기능이 내장되어 있는 최첨단 보안경. 현재 빛이 나오고 있는 상태입니다."
-msgstr "Высокотехнологичные защитные очки со встроенными функциями коррекции зрения, увеличения удалённых объектов и защиты глаз от очень яркого света. В данный момент подсветка включена."
+msgid ""
+"시력보정 기능과 멀리볼수 있는 기능, 그리고 매우 밝은 빛에 눈을 보호하는 기능이 내장되어 있는 최첨단 보안경. 현재 빛이 나오고 있는 "
+"상태입니다."
+msgstr ""
+"Высокотехнологичные защитные очки со встроенными функциями коррекции зрения,"
+" увеличения удалённых объектов и защиты глаз от очень яркого света. В данный"
+" момент подсветка включена."
 
 #: armor.json
 msgid "필터 마스크(XL)"
@@ -199,7 +228,9 @@ msgstr[2] "фильтрующих масок (XL)"
 #. ~ Description for 필터 마스크(XL)
 #: armor.json
 msgid "필터마스크를 이어붙여서 대형화시켰습니다. 이 정도 사이즈라면 어떤 입에도 잘 맞을거 같습니다."
-msgstr "Несколько фильтрующих масок соединили вместе, получив одну большую. Похоже, теперь она подойдёт для пасти любого размера."
+msgstr ""
+"Несколько фильтрующих масок соединили вместе, получив одну большую. Похоже, "
+"теперь она подойдёт для пасти любого размера."
 
 #: armor.json
 msgid "선녀의 스카프"
@@ -222,8 +253,13 @@ msgstr[2] "стальных каплевидных щитов"
 
 #. ~ Description for 강철 카이트실드
 #: armor.json
-msgid "위는 둥글고 아래는 뾰족한 형태의 대형 방패, 현대의 강철로 만들었기 때문에 전통적인 방식의 카이트실드보다는 훨씬 튼튼하지만 대신 굉장히 무겁다."
-msgstr "Большой щит с закруглённым верхом и заострённым низом. Изготовлен из современной стали, поэтому гораздо прочнее традиционных каплевидных щитов, но при этом чрезвычайно тяжёлый."
+msgid ""
+"위는 둥글고 아래는 뾰족한 형태의 대형 방패, 현대의 강철로 만들었기 때문에 전통적인 방식의 카이트실드보다는 훨씬 튼튼하지만 대신 굉장히"
+" 무겁다."
+msgstr ""
+"Большой щит с закруглённым верхом и заострённым низом. Изготовлен из "
+"современной стали, поэтому гораздо прочнее традиционных каплевидных щитов, "
+"но при этом чрезвычайно тяжёлый."
 
 #: books.json
 msgid "Tyep2 : 전설의 생명체 재현"
@@ -235,16 +271,19 @@ msgstr[2] "книг «Тип 2: Воссоздание легендарных с
 #. ~ Description for Tyep2 : 전설의 생명체 재현
 #: books.json
 msgid "신화속의 짐승을 구현해보고자하는 과학자들의 연구서."
-msgstr "Научный труд, посвящённый попыткам учёных воссоздать мифических животных."
+msgstr ""
+"Научный труд, посвящённый попыткам учёных воссоздать мифических животных."
 
 #: modinfo.json
 msgid "Overhaul Tileset/Additions"
-msgstr "Тайлсет Overhaul (дополнения)"
+msgstr "Тайлсет Overhaul: дополнения"
 
 #. ~ Description for Overhaul Tileset/Additions
 #: modinfo.json
 msgid "Overhaul Tileset용 외형, 변이, 아이템, 차량 부품 추가 모드입니다."
-msgstr "Мод, добавляющий новые варианты внешности, мутации, предметы и детали транспорта для тайлсета Overhaul."
+msgstr ""
+"Мод, добавляющий новые варианты внешности, мутации, предметы и детали "
+"транспорта для тайлсета Overhaul."
 
 #: mutagen.json
 msgid "여우 뮤타젠"
@@ -348,7 +387,9 @@ msgstr "Вам кажется, что ваши ноги становятся с�
 #. ~ Mutation class: Horse iv_message
 #: mutation_category.json
 msgid "심장이 빠르게 뛰며 어디든지 질주를 하고 싶다는 충동에 휩싸인다."
-msgstr "Ваше сердце бешено колотится, и вас охватывает непреодолимое желание мчаться куда глаза глядят."
+msgstr ""
+"Ваше сердце бешено колотится, и вас охватывает непреодолимое желание мчаться"
+" куда глаза глядят."
 
 #. ~ Mutation class name
 #: mutation_category.json
@@ -386,8 +427,13 @@ msgstr "Девятихвостый лис"
 
 #. ~ Description for 나인테일
 #: mutations.json
-msgid "당신은 9개나 되는 꼬리를 가졌습니다. 여차하면 침대 대신 덮고 잘 수 있을 정도로 폭신푹신하며 뛰어난 보온효과를 제공합니다. 다만 꼬리수가 많아진 탓에 회피능력 보너스가 기존보다 약간 감소합니다."
-msgstr "У вас целых девять хвостов! Они настолько мягкие, пушистые и тёплые, что ими можно укрываться во сне вместо одеяла. Однако из-за такого количества хвостов бонус к уклонению немного снижен."
+msgid ""
+"당신은 9개나 되는 꼬리를 가졌습니다. 여차하면 침대 대신 덮고 잘 수 있을 정도로 폭신푹신하며 뛰어난 보온효과를 제공합니다. 다만 "
+"꼬리수가 많아진 탓에 회피능력 보너스가 기존보다 약간 감소합니다."
+msgstr ""
+"У вас целых девять хвостов! Они настолько мягкие, пушистые и тёплые, что ими"
+" можно укрываться во сне вместо одеяла. Однако из-за такого количества "
+"хвостов бонус к уклонению немного снижен."
 
 #: mutations.json
 msgid "노란 솜털꼬리"
@@ -395,8 +441,13 @@ msgstr "Жёлтый пушистый хвост"
 
 #. ~ Description for 노란 솜털꼬리
 #: mutations.json
-msgid "노란색의 길고 푹신한 털이 달린 꼬리가 생겼습니다. 이 꼬리는 몸의 균형을 잡는데 도움이 되고, 회피 능력을 대폭 향상시켜줍니다. 그렇지만 꼬리가 걸리적거려서 다리에 천 재질이 아닌 의복을 착용할 수 없게 됩니다."
-msgstr "У вас вырос длинный жёлтый хвост, покрытый мягкой пушистой шерстью. Он помогает сохранять равновесие и значительно повышает способность уклоняться от атак. Однако из-за хвоста на ногах можно носить только тканевую одежду."
+msgid ""
+"노란색의 길고 푹신한 털이 달린 꼬리가 생겼습니다. 이 꼬리는 몸의 균형을 잡는데 도움이 되고, 회피 능력을 대폭 향상시켜줍니다. "
+"그렇지만 꼬리가 걸리적거려서 다리에 천 재질이 아닌 의복을 착용할 수 없게 됩니다."
+msgstr ""
+"У вас вырос длинный жёлтый хвост, покрытый мягкой пушистой шерстью. Он "
+"помогает сохранять равновесие и значительно повышает способность уклоняться "
+"от атак. Однако из-за хвоста на ногах можно носить только тканевую одежду."
 
 #: mutations.json
 msgid "포니테일"
@@ -404,8 +455,13 @@ msgstr "Лошадиный хвост"
 
 #. ~ Description for 포니테일
 #: mutations.json
-msgid "당신은 포니테일을 가지고 있습니다. 머리스타일이 아닌 진짜 포니테일을요. 회피에 보너스가 주어집니다. 그렇지만 꼬리가 걸리적거려서 다리에 천 재질이 아닌 의복을 착용할 수 없게 됩니다."
-msgstr "У вас есть лошадиный хвост. И речь вовсе не о причёске, а о самом настоящем хвосте! Он повышает вашу способность уклоняться от атак, но из-за него на ногах можно носить только тканевую одежду."
+msgid ""
+"당신은 포니테일을 가지고 있습니다. 머리스타일이 아닌 진짜 포니테일을요. 회피에 보너스가 주어집니다. 그렇지만 꼬리가 걸리적거려서 다리에"
+" 천 재질이 아닌 의복을 착용할 수 없게 됩니다."
+msgstr ""
+"У вас есть лошадиный хвост. И речь вовсе не о причёске, а о самом настоящем "
+"хвосте! Он повышает вашу способность уклоняться от атак, но из-за него на "
+"ногах можно носить только тканевую одежду."
 
 #: mutations.json
 msgid "Thick-Skinned"
@@ -418,7 +474,10 @@ msgstr "Каменная кожа"
 #. ~ Description for 돌 피부
 #: mutations.json
 msgid "당신의 피부는 사포로 문질러도 멀쩡할 정도로 매우 딱딱해졌습니다. 움직임이 약간 불편해지지만 받는 절단 피해를 감소시킵니다."
-msgstr "Ваша кожа стала настолько твёрдой, что даже наждачная бумага не оставляет на ней следов. Двигаться стало немного труднее, зато теперь вы получаете меньше режущего урона."
+msgstr ""
+"Ваша кожа стала настолько твёрдой, что даже наждачная бумага не оставляет на"
+" ней следов. Двигаться стало немного труднее, зато теперь вы получаете "
+"меньше режущего урона."
 
 #: mutations.json
 msgid "암석 피부"
@@ -426,8 +485,12 @@ msgstr "Скальная кожа"
 
 #. ~ Description for 암석 피부
 #: mutations.json
-msgid "당신의 피부는 생기를 잃었고 무기질에 가까워졌습니다. 움직임이 불편해지지만 받는 절단 피해를 크게 감소시키며 타격 피해 또한 감소합니다."
-msgstr "Ваша кожа больше не похожа на живую ткань — скорее на минерал. Двигаться стало труднее, зато теперь вы получаете значительно меньше режущего урона, а также меньше дробящего."
+msgid ""
+"당신의 피부는 생기를 잃었고 무기질에 가까워졌습니다. 움직임이 불편해지지만 받는 절단 피해를 크게 감소시키며 타격 피해 또한 감소합니다."
+msgstr ""
+"Ваша кожа больше не похожа на живую ткань — скорее на минерал. Двигаться "
+"стало труднее, зато теперь вы получаете значительно меньше режущего урона, а"
+" также меньше дробящего."
 
 #: mutations.json
 msgid "Freakishly Huge"
@@ -440,7 +503,9 @@ msgstr "Жёлтый мех"
 #. ~ Description for 노란 털가죽
 #: mutations.json
 msgid "포근한 금빛 털이 온몸을 덮었습니다. 상당한 보온효과를 가집니다."
-msgstr "Всё ваше тело покрылось мягкой золотистой шерстью, которая отлично сохраняет тепло."
+msgstr ""
+"Всё ваше тело покрылось мягкой золотистой шерстью, которая отлично сохраняет"
+" тепло."
 
 #: mutations.json
 msgid "용 비늘"
@@ -448,8 +513,14 @@ msgstr "Драконья чешуя"
 
 #. ~ Description for 용 비늘
 #: mutations.json
-msgid "몸의 비늘이 붉은 빛을 띄며 더욱 단단해졌습니다. 이 비늘은 화염에 내성이 있고 높은 방어력을 가지고 있습니다. 그러나 움직이기 불편해서 민첩성이 2 감소하고 방해도도 약간 증가합니다. 또한 젖음 페널티를 크게 줄여줍니다."
-msgstr "Чешуя на вашем теле приобрела красноватый оттенок и стала ещё прочнее. Она обеспечивает высокую защиту и устойчивость к огню. Однако из-за неё вам труднее двигаться: ловкость снижается на 2, а стеснение немного увеличивается. Кроме того, значительно уменьшаются штрафы от намокания."
+msgid ""
+"몸의 비늘이 붉은 빛을 띄며 더욱 단단해졌습니다. 이 비늘은 화염에 내성이 있고 높은 방어력을 가지고 있습니다. 그러나 움직이기 불편해서"
+" 민첩성이 2 감소하고 방해도도 약간 증가합니다. 또한 젖음 페널티를 크게 줄여줍니다."
+msgstr ""
+"Чешуя на вашем теле приобрела красноватый оттенок и стала ещё прочнее. Она "
+"обеспечивает высокую защиту и устойчивость к огню. Однако из-за неё вам "
+"труднее двигаться: ловкость снижается на 2, а стеснение немного "
+"увеличивается. Кроме того, значительно уменьшаются штрафы от намокания."
 
 #: mutations.json
 msgid "여우 주둥이"
@@ -476,7 +547,10 @@ msgstr "Драконья голова"
 #. ~ Description for 용 머리
 #: mutations.json
 msgid "당신의 얼굴과 턱이 붉고, 크고, 강력하게 변화했습니다. 보기에는 징그럽지만 적을 물어뜯기에 탁월합니다."
-msgstr "Ваше лицо и челюсти стали красными, огромными и невероятно мощными. Выглядят они жутковато, зато прекрасно подходят для того, чтобы разрывать врагов зубами."
+msgstr ""
+"Ваше лицо и челюсти стали красными, огромными и невероятно мощными. Выглядят"
+" они жутковато, зато прекрасно подходят для того, чтобы разрывать врагов "
+"зубами."
 
 #: mutations.json
 msgid "%s(을)를 한웅큼 깨뭅니다."
@@ -493,7 +567,9 @@ msgstr "Лиса"
 #. ~ Description for 여우
 #: mutations.json
 msgid "문명이 멸망했지만 당신은 괜찮습니다. 산과 들, 숲이 당신의 집이니까요."
-msgstr "Цивилизация погибла, но вас это не пугает. Ведь горы, поля и леса — ваш родной дом."
+msgstr ""
+"Цивилизация погибла, но вас это не пугает. Ведь горы, поля и леса — ваш "
+"родной дом."
 
 #: mutations.json
 msgid "페가수스"
@@ -502,7 +578,8 @@ msgstr "Пегас"
 #. ~ Description for 페가수스
 #: mutations.json
 msgid "앞으로 나아가고 전진하며 달립니니다. 그게 당신의 삶이니까요."
-msgstr "Мчаться вперёд, не останавливаясь. Ведь в этом и заключается ваша жизнь."
+msgstr ""
+"Мчаться вперёд, не останавливаясь. Ведь в этом и заключается ваша жизнь."
 
 #: mutations.json
 msgid "골렘"
@@ -529,7 +606,9 @@ msgstr "Лисьи уши"
 #. ~ Description for 여우 귀
 #: mutations.json
 msgid "당신의 귀는 뾰족하고 매우 눈에 띕니다. 소리를 듣는데 탁월합니다."
-msgstr "Ваши уши стали заострёнными и очень заметными. Теперь у вас превосходный слух."
+msgstr ""
+"Ваши уши стали заострёнными и очень заметными. Теперь у вас превосходный "
+"слух."
 
 #: mutations.json
 msgid "토끼 귀"
@@ -537,8 +616,13 @@ msgstr "Кроличьи уши"
 
 #. ~ Description for 토끼 귀
 #: mutations.json
-msgid "이 엄청나게 길쭉한 귀는... 마치 토끼가 된 느낌입니다. 보기에 좋고 소리를 듣는데 큰 도움이 되지만, 일반적인 장비를 머리에 착용할 수 없게 됩니다."
-msgstr "Ваши уши стали невероятно длинными... Словно вы превратились в кролика! Они прекрасно выглядят и значительно улучшают слух, но теперь вы не можете носить на голове обычное снаряжение."
+msgid ""
+"이 엄청나게 길쭉한 귀는... 마치 토끼가 된 느낌입니다. 보기에 좋고 소리를 듣는데 큰 도움이 되지만, 일반적인 장비를 머리에 착용할 "
+"수 없게 됩니다."
+msgstr ""
+"Ваши уши стали невероятно длинными... Словно вы превратились в кролика! Они "
+"прекрасно выглядят и значительно улучшают слух, но теперь вы не можете "
+"носить на голове обычное снаряжение."
 
 #: mutations.json
 msgid "말 귀"
@@ -547,7 +631,8 @@ msgstr "Лошадиные уши"
 #. ~ Description for 말 귀
 #: mutations.json
 msgid "당신의 귀는 작지만 모양새 있는 말의 귀가 되었습니다. 소리를 듣는데 도움이 됩니다."
-msgstr "Ваши уши стали небольшими и изящными, как у лошади. Теперь вы лучше слышите."
+msgstr ""
+"Ваши уши стали небольшими и изящными, как у лошади. Теперь вы лучше слышите."
 
 #: mutations.json
 msgid "신화적 매력"
@@ -556,7 +641,9 @@ msgstr "Мифическое обаяние"
 #. ~ Description for 신화적 매력
 #: mutations.json
 msgid "당신은 이야기 속에서나 나올법한 미모를 가졌습니다. 누구라도 당신에게 호의를 가지지 않고는 못 배길겁니다."
-msgstr "Вы обладаете красотой, о которой слагают легенды. Никто не сможет устоять перед вашим очарованием."
+msgstr ""
+"Вы обладаете красотой, о которой слагают легенды. Никто не сможет устоять "
+"перед вашим очарованием."
 
 #: mutations.json
 msgid "말의 민첩성"
@@ -574,7 +661,9 @@ msgstr "Неповоротливость голема"
 #. ~ Description for 골렘의 둔함
 #: mutations.json
 msgid "몸이 이상하리만치 둔해진 느낌입니다. 그대신 힘이 강해진 느낌도 함께 듭니다. 체력 +2, 민첩성 -2"
-msgstr "Ваше тело стало непривычно неповоротливым, но вместе с тем вы чувствуете прилив сил. Сила +2, ловкость −2"
+msgstr ""
+"Ваше тело стало непривычно неповоротливым, но вместе с тем вы чувствуете "
+"прилив сил. Сила +2, ловкость −2"
 
 #: mutations.json
 msgid "여우의 교활함"
@@ -583,31 +672,33 @@ msgstr "Лисья хитрость"
 #. ~ Description for 여우의 교활함
 #: mutations.json
 msgid "어째서인지 머리가 매우 좋아진 느낌입니다. 지능 +5"
-msgstr "По какой-то причине вы чувствуете, что стали гораздо сообразительнее. Интеллект +5"
+msgstr ""
+"По какой-то причине вы чувствуете, что стали гораздо сообразительнее. "
+"Интеллект +5"
 
 #: mutations.json
 msgid "Reptilian Healing"
 msgstr "Регенерация рептилии"
 
-#. ~ Name for scenario 'Experiment' for a male character
+#. ~ Scenario name for 'inherited scenario'
 #: scenarios.json
 msgctxt "scenario_male"
 msgid "Experiment"
 msgstr "Эксперимент"
 
-#. ~ Name for scenario 'Experiment' for a female character
+#. ~ Scenario name for 'inherited scenario'
 #: scenarios.json
 msgctxt "scenario_female"
 msgid "Experiment"
 msgstr "Эксперимент"
 
-#. ~ Name for scenario 'Challenge - Lab Patient' for a male character
+#. ~ Scenario name for 'inherited scenario'
 #: scenarios.json
 msgctxt "scenario_male"
 msgid "Challenge - Lab Patient"
 msgstr "Испытание: Лабораторный подопытный"
 
-#. ~ Name for scenario 'Challenge - Lab Patient' for a female character
+#. ~ Scenario name for 'inherited scenario'
 #: scenarios.json
 msgctxt "scenario_female"
 msgid "Challenge - Lab Patient"
@@ -623,7 +714,9 @@ msgstr[2] "средних холодильников"
 #. ~ Description for 중형 냉장고
 #: vehicle_parts.json
 msgid "소형 냉장고를 이어붙여 더 많은 내용물을 담을수 있는 냉장고."
-msgstr "Холодильник, собранный из нескольких небольших холодильников. Позволяет хранить больше продуктов."
+msgstr ""
+"Холодильник, собранный из нескольких небольших холодильников. Позволяет "
+"хранить больше продуктов."
 
 #: vehicle_parts.json
 msgid "대형 냉장고"
@@ -635,7 +728,9 @@ msgstr[2] "больших холодильников"
 #. ~ Description for 대형 냉장고
 #: vehicle_parts.json
 msgid "기존 냉장고보다 매우 많은 내용물을 담을 수 있는 냉장고."
-msgstr "Вместительный холодильник, в котором можно хранить гораздо больше продуктов, чем в обычном."
+msgstr ""
+"Вместительный холодильник, в котором можно хранить гораздо больше продуктов,"
+" чем в обычном."
 
 #: vehicle_parts.json
 msgid "차량용 책장"
@@ -647,7 +742,9 @@ msgstr[2] "книжных шкафов для транспорта"
 #. ~ Description for 차량용 책장
 #: vehicle_parts.json
 msgid "여러가지 종류의 책을 꽂아두거나 다른 물건도 넣어둘 수 있는 큼지막한 책장."
-msgstr "Большой книжный шкаф, в котором можно хранить самые разные книги и другие вещи."
+msgstr ""
+"Большой книжный шкаф, в котором можно хранить самые разные книги и другие "
+"вещи."
 
 #: vehicle_parts.json
 msgid "중형냉동고"
@@ -673,6 +770,11 @@ msgstr "Причёска: лысина"
 #: appearance/block_appearance.json
 msgid "You are bald."
 msgstr "У вас лысая голова."
+
+#. ~ Appearance description for Hair: none
+#: appearance/block_appearance.json
+msgid "bald"
+msgstr "цвет волос выбран (волос нет"
 
 #: appearance/customization_appearance_eye.json
 msgid "Eye tone: blue"
@@ -737,6 +839,13 @@ msgstr "Глаза: розовые"
 msgid "You have oddly pink eyes."
 msgstr "У вас необычные розовые глаза."
 
+#. ~ Appearance description for {'str': 'Eye color: pink'}
+#. ~ Appearance description for Hair color: pink
+#: appearance/customization_appearance_eye.json
+#: appearance/customization_appearance_hair_color.json
+msgid "pink"
+msgstr "розовый"
+
 #: appearance/customization_appearance_eye.json
 msgid "Eye color: white"
 msgstr "Глаза: белые"
@@ -745,6 +854,11 @@ msgstr "Глаза: белые"
 #: appearance/customization_appearance_eye.json
 msgid "You have no visible irises."
 msgstr "Ваши глаза не имеют видимых радужек."
+
+#. ~ Appearance description for {'str': 'Eye color: white'}
+#: appearance/customization_appearance_eye.json
+msgid "white"
+msgstr "белый"
 
 #: appearance/customization_appearance_eye.json
 msgid "Eye color: black"
@@ -755,6 +869,11 @@ msgstr "Глаза: чёрные"
 msgid "Your eyes are disconcertingly pitch black."
 msgstr "Ваши глаза угольно-чёрные, и от этого становится не по себе."
 
+#. ~ Appearance description for {'str': 'Eye color: black'}
+#: appearance/customization_appearance_eye.json
+msgid "black"
+msgstr "чёрный"
+
 #: appearance/customization_appearance_hair_color.json
 msgid "Hair color: violet"
 msgstr "Цвет волос: фиолетовый"
@@ -763,6 +882,11 @@ msgstr "Цвет волос: фиолетовый"
 #: appearance/customization_appearance_hair_color.json
 msgid "You have violet hair."
 msgstr "У вас фиолетовые волосы."
+
+#. ~ Appearance description for Hair color: violet
+#: appearance/customization_appearance_hair_color.json
+msgid "violet"
+msgstr "фиолетовый"
 
 #: appearance/customization_appearance_hair_color.json
 msgid "Hair color: green"
@@ -773,6 +897,11 @@ msgstr "Цвет волос: зелёный"
 msgid "Screw the rules, you have green hair!"
 msgstr "К чёрту правила, у вас зелёные волосы!"
 
+#. ~ Appearance description for Hair color: green
+#: appearance/customization_appearance_hair_color.json
+msgid "green"
+msgstr "зелёный"
+
 #: appearance/customization_appearance_hair_color.json
 msgid "Hair color: blue"
 msgstr "Цвет волос: синий"
@@ -781,6 +910,11 @@ msgstr "Цвет волос: синий"
 #: appearance/customization_appearance_hair_color.json
 msgid "You have blue hair."
 msgstr "Ваши волосы синего цвета."
+
+#. ~ Appearance description for Hair color: blue
+#: appearance/customization_appearance_hair_color.json
+msgid "blue"
+msgstr "голубой"
 
 #: appearance/customization_appearance_hair_color.json
 msgid "Hair color: pink"
@@ -799,6 +933,11 @@ msgstr "Цвет волос: оранжевый"
 #: appearance/customization_appearance_hair_color.json
 msgid "You have orange hair."
 msgstr "Ваши волосы оранжевого цвета."
+
+#. ~ Appearance description for Hair color: orange
+#: appearance/customization_appearance_hair_color.json
+msgid "orange"
+msgstr "оранжевый"
 
 #: appearance/customization_appearance_hair_color.json
 msgid "Hair sub color: black"
@@ -908,14 +1047,29 @@ msgstr "Причёска: зачёс набок"
 msgid "Your hair is swept to one side, with strands framing your face."
 msgstr "Ваши волосы зачёсаны набок, отдельные пряди обрамляют лицо."
 
+#. ~ Appearance description for Hair style: side-swept
+#: appearance/customization_appearance_hair_style.json
+#| msgid "Hair style: side-swept"
+msgid "side-swept"
+msgstr "цвет волос (стрижка «зачёс набок»"
+
 #: appearance/customization_appearance_hair_style.json
 msgid "Hair style: alternative"
 msgstr "Причёска: альтернативная"
 
 #. ~ Description for Hair style: alternative
 #: appearance/customization_appearance_hair_style.json
-msgid "This style has long hair swept to one side in the female appearance and closely cropped hair in the male appearance."
-msgstr "В женском варианте — длинные волосы, зачёсанные набок; в мужском — короткая стрижка."
+msgid ""
+"This style has long hair swept to one side in the female appearance and "
+"closely cropped hair in the male appearance."
+msgstr ""
+"В женском варианте — длинные волосы, зачёсанные набок; в мужском — короткая "
+"стрижка."
+
+#. ~ Appearance description for Hair style: alternative
+#: appearance/customization_appearance_hair_style.json
+msgid "alternatively styled"
+msgstr "цвет волос (альтернативная стрижка"
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 1"
@@ -923,8 +1077,12 @@ msgstr "Деталь внешности: 1"
 
 #. ~ Description for Sub Hair: 1
 #: appearance/customization_appearance_hair_style.json
-msgid "Adds a long side lock to the female appearance or a broad strip of facial hair along the chin to the male appearance."
-msgstr "Добавляет длинную боковую прядь в женском варианте или широкую полоску растительности вдоль подбородка в мужском."
+msgid ""
+"Adds a long side lock to the female appearance or a broad strip of facial "
+"hair along the chin to the male appearance."
+msgstr ""
+"Добавляет длинную боковую прядь в женском варианте или широкую полоску "
+"растительности вдоль подбородка в мужском."
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 2"
@@ -932,8 +1090,12 @@ msgstr "Деталь внешности: 2"
 
 #. ~ Description for Sub Hair: 2
 #: appearance/customization_appearance_hair_style.json
-msgid "Adds a small side lock to the female appearance or a short patch of facial hair on the chin to the male appearance."
-msgstr "Добавляет небольшую боковую прядь в женском варианте или короткий островок растительности на подбородке в мужском."
+msgid ""
+"Adds a small side lock to the female appearance or a short patch of facial "
+"hair on the chin to the male appearance."
+msgstr ""
+"Добавляет небольшую боковую прядь в женском варианте или короткий островок "
+"растительности на подбородке в мужском."
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 3"
@@ -941,8 +1103,12 @@ msgstr "Деталь внешности: 3"
 
 #. ~ Description for Sub Hair: 3
 #: appearance/customization_appearance_hair_style.json
-msgid "Adds two long side locks to the female appearance or a fuller patch of facial hair around the chin to the male appearance."
-msgstr "Добавляет две длинные боковые пряди в женском варианте или более густую растительность вокруг подбородка в мужском."
+msgid ""
+"Adds two long side locks to the female appearance or a fuller patch of "
+"facial hair around the chin to the male appearance."
+msgstr ""
+"Добавляет две длинные боковые пряди в женском варианте или более густую "
+"растительность вокруг подбородка в мужском."
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 4"
@@ -950,8 +1116,14 @@ msgstr "Деталь внешности: 4"
 
 #. ~ Description for Sub Hair: 4
 #: appearance/customization_appearance_hair_style.json
-msgid "Adds a long side lock on the opposite side from detail 1 to the female appearance or a short horizontal strip of facial hair to the male appearance."
-msgstr "Добавляет длинную боковую прядь с противоположной стороны относительно детали № 1 в женском варианте или короткую горизонтальную полоску растительности на лице в мужском."
+msgid ""
+"Adds a long side lock on the opposite side from detail 1 to the female "
+"appearance or a short horizontal strip of facial hair to the male "
+"appearance."
+msgstr ""
+"Добавляет длинную боковую прядь с противоположной стороны относительно "
+"детали № 1 в женском варианте или короткую горизонтальную полоску "
+"растительности на лице в мужском."
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 5"
@@ -959,8 +1131,12 @@ msgstr "Деталь внешности: 5"
 
 #. ~ Description for Sub Hair: 5
 #: appearance/customization_appearance_hair_style.json
-msgid "Adds a small tuft of hair at the top of the head to the female appearance or an extended strip of facial hair along the chin to the male appearance."
-msgstr "Добавляет небольшой вихор на макушке в женском варианте или удлинённую полоску растительности вдоль подбородка в мужском."
+msgid ""
+"Adds a small tuft of hair at the top of the head to the female appearance or"
+" an extended strip of facial hair along the chin to the male appearance."
+msgstr ""
+"Добавляет небольшой вихор на макушке в женском варианте или удлинённую "
+"полоску растительности вдоль подбородка в мужском."
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 6"
@@ -968,8 +1144,12 @@ msgstr "Деталь внешности: 6"
 
 #. ~ Description for Sub Hair: 6
 #: appearance/customization_appearance_hair_style.json
-msgid "Adds a narrow side lock to the female appearance or a small horizontal strip of facial hair to the male appearance."
-msgstr "Добавляет узкую боковую прядь в женском варианте или небольшую горизонтальную полоску растительности на лице в мужском."
+msgid ""
+"Adds a narrow side lock to the female appearance or a small horizontal strip"
+" of facial hair to the male appearance."
+msgstr ""
+"Добавляет узкую боковую прядь в женском варианте или небольшую "
+"горизонтальную полоску растительности на лице в мужском."
 
 #: appearance/customization_appearance_hair_style.json
 msgid "Sub Hair: 7"
@@ -977,5 +1157,9 @@ msgstr "Деталь внешности: 7"
 
 #. ~ Description for Sub Hair: 7
 #: appearance/customization_appearance_hair_style.json
-msgid "Adds a short lock of hair swept to one side to the female appearance or a narrow vertical strip of facial hair to the male appearance."
-msgstr "Добавляет короткую прядь, направленную набок, в женском варианте или узкую вертикальную полоску растительности на лице в мужском."
+msgid ""
+"Adds a short lock of hair swept to one side to the female appearance or a "
+"narrow vertical strip of facial hair to the male appearance."
+msgstr ""
+"Добавляет короткую прядь, направленную набок, в женском варианте или узкую "
+"вертикальную полоску растительности на лице в мужском."
